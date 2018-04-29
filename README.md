@@ -1,6 +1,5 @@
 # iOS Scrolling Navbar
-======================
 <p align="center">
-<img src="1.png" width=350/>
-<img src="2.png" width=350/>
+<img src="b.png" width=350/>
+<img src="r.png" width=350/>
 </p>
